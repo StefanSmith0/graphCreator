@@ -1,0 +1,14 @@
+#ifndef GRAPH_H
+#define GRAPH_H
+#include <iostream>
+
+using namespace std;
+
+class Graph {
+ public:
+  Graph();
+  ~Graph();
+  void print();
+ private:
+  int size = 0;
+}
