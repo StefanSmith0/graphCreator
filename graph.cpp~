@@ -1,7 +1,0 @@
-#include "graph.h"
-
-using namespace std;
-
-Graph::Graph() {
-  cout << "Graph Initialized" << endl;
-}
